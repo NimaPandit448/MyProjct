@@ -1,0 +1,206 @@
+@media screen and (max-width:600px) {
+    .header_box {
+        display: none !important;
+    }
+
+    .header_right {
+        display: none !important;
+    }
+
+    .logo {
+        padding-bottom: 4%;
+        display: flex;
+        flex-basis: 600%;
+        padding-right: 60%;
+
+    }
+
+    .row {
+        width: 100%;
+        padding: 0;
+    }
+
+    .navbar {
+        display: none !important;
+    }
+
+    .cakebg img {
+        display: flex;
+        width: 100%;
+        height: 900px;
+        background-size: 100% 50%;
+    }
+
+    .rowimg {
+        flex-basis: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .making {
+        display: flex;
+
+    }
+    .rowa {
+        padding-top: 5%;
+        width: 90%;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .about {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        float: left;
+    }
+    .title span {
+        width: 100%;
+        display: flex;
+        font-size: 1.3rem;
+
+    }
+    .title h2 {
+        display: flex;
+        width: 100%;
+        font-size: 3rem;
+    }
+    .about p {
+        display: flex;
+        width: 100%;
+        font-size: 1rem;
+    }
+    .range {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        float: right;
+    }
+    .rowcups {
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    }
+    .set-bg {
+        text-align: center;
+
+   }
+    .spadcake {
+        width: 100%;
+        display: flex;
+    }
+    .rowspadvio{
+        display: flex;
+        width: 100%;  
+        flex-direction: column;
+        
+    }  
+    .from {
+        width: 100%;
+        display: flex;
+    } 
+    /* .video 
+    {
+        display: flex;
+        background-color: red;
+        width: 100%;
+        height: 500px;
+    } */
+
+    /* .video img {
+        position: relative;
+        width: 100%;
+        display: flex;
+        right: 100%;
+    } */
+    .footertop {
+    
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+            }
+    .rowspad {
+        width: 95%;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        
+    }
+    
+    .working {
+        display: flex;
+        flex-direction: column;
+        width: 60%;
+
+    }.footer__widget:after {
+    content: none;
+    }
+    .cake_icon {
+        display: flex;
+        align-items: start;
+
+        flex-direction: column;
+        width: 60%;    
+    }.footer__about .footer__logo {
+        margin-right: 52%;    
+    }.footer__about:after {
+        content: none;
+    }.footer__about p {
+        display: flex;
+        width: 133%;
+    }.social {
+        text-align: start;
+    }
+    
+    .subscribe {
+        display: flex;
+        align-items: start;
+        flex-direction: column;
+        width: 100%;
+        padding-top: 5%;
+        margin-left: -6%;
+    }
+    .footer__newslatter p {
+     display: flex;
+     width: 100%;
+     
+    }
+    .footerdown {
+        width: 100%;
+        display: flex;
+       flex-direction: column;
+    }
+    .rowfooter_down {
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+    }
+    .copyright__text {
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+    }.copyright__text a{
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+    }
+    .zero {
+        display: none !important;
+    }
+    .copyright__widget {
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+    }
+     .copyright__widget ::after {
+        position: relative;
+        content: none;
+    }
+      
+    
+      
+}
